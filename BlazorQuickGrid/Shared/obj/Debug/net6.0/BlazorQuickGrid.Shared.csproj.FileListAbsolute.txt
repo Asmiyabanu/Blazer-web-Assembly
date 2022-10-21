@@ -1,0 +1,12 @@
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\bin\Debug\net6.0\BlazorQuickGrid.Shared.deps.json
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\bin\Debug\net6.0\BlazorQuickGrid.Shared.dll
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\bin\Debug\net6.0\BlazorQuickGrid.Shared.pdb
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\BlazorQuickGrid.Shared.csproj.AssemblyReference.cache
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\BlazorQuickGrid.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\BlazorQuickGrid.Shared.AssemblyInfoInputs.cache
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\BlazorQuickGrid.Shared.AssemblyInfo.cs
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\BlazorQuickGrid.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\BlazorQuickGrid.Shared.dll
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\refint\BlazorQuickGrid.Shared.dll
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\BlazorQuickGrid.Shared.pdb
+C:\Users\Asmi\Desktop\Quadrate\BlazorQuickGrid\BlazorQuickGrid\Shared\obj\Debug\net6.0\ref\BlazorQuickGrid.Shared.dll
